@@ -2,7 +2,7 @@
 
 ![Design preview for the Social links profile coding challenge](./design/desktop-preview.jpg)
 
-Welcome! 👋 [This is my attempt]() completing the Frontend Mentor challenge.
+Welcome! 👋 [This is my attempt](https://thembamtshelwane.github.io/social-links-profile-main/) completing the Frontend Mentor challenge.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
